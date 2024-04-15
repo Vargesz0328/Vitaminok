@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto; 
+    max-width: 800px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-color: gray;
+    border-bottom: 2px black;
+}
+h3{
+    font-style: italic;
+    text-decoration: underline;
+}
+thead{
+    background-color: #f2f2f2;
+    border-bottom: 2px black;
+}
+th{
+    border-bottom: black;
+}
