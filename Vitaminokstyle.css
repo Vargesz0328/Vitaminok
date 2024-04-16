@@ -7,6 +7,7 @@ body{
 h1{
     text-align: center;
     font-weight: bold;
+    vertical-align: middle ;
 
 }
 h2{
@@ -26,4 +27,15 @@ thead{
 }
 th{
     border-bottom: black;
+}
+.hianya{
+    font-weight: bold;
+}
+.cn{
+border-radius: 25px;
+  background: #73AD21;
+  padding: 0%;
+  width: 800px;
+  height: 40px;
+  vertical-align: middle ;
 }
